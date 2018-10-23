@@ -1,3 +1,5 @@
+
+// Classe Candidato apresenta os atributos e métodos necessários para que um canditado sejá armazenado na urna eletrônica
 public class Candidato {
     private String nome;
     private int numero;
